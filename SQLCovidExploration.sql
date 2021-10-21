@@ -5,6 +5,10 @@ Covid-19 Data Exploration
 
 Skills outlined: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
+The following spreadsheets were used for this activity: Covid_Master.xlsx, Covid_Hospitalizations.xlsx, 
+Covid_Vaccinations.xlsx, Covid_Demographic.xlsx and Covid_Deaths.xlsx
+
+
 */
 
 
