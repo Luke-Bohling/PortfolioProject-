@@ -1,7 +1,7 @@
 /*
 
 Cleaning Data with SQL
-HousingDataNashvilleTN.xlsx was used for this activity and HousingDataNashvilleTN(cleaned) is the final product
+HousingDataNashvilleTN.xlsx was used for this activity and HousingDataNashvilleTN(cleaned).xlsx is the final product
 
 */
 
